@@ -1,0 +1,91 @@
+/**************************************
+    File Name: colors.css
+    Template Name: Holy Garden
+    Created By: HTML.Design
+    http://html.design - twitter.com/htmldotdesign
+**************************************/
+
+
+/* COLORS 
+**************************************/
+
+a:hover,
+.new-price,
+.closed,
+.shop-table .table th,
+a:focus,
+.footer a,
+.check li:before,
+h3 span,
+.text-primary,
+.pricing-box-03-head h4,
+.cat-title,
+.box:hover .readmore,
+.with-desc small,
+.blog-box:hover .readmore,
+.stat-count h3,
+.contact-box i,
+.navbar-nav .nav-link:hover,
+.shop-desc small,
+.notfound h2,
+.navbar-nav .nav-link:focus,
+.team-item .desc small,
+.navbar-inverse .navbar-nav .active > .nav-link,
+.navbar-inverse .navbar-nav .nav-link.active,
+.navbar-inverse .navbar-nav .nav-link.open,
+.navbar-inverse .navbar-nav .open > .nav-link {
+    color: #db2128 !important;
+}
+
+.magnifier {
+    background-color: rgba(107, 158, 16, 0.8);
+}
+
+.absolute-widget,
+.onsale,
+.section.db,
+.tag-widget a:hover,
+.pricing-box-03 .btn,
+.testimonials blockquote:hover,
+div.tab button:hover,
+div.tab button.active,
+.page-link:hover,
+.page-link:focus,
+.contact-details h1,
+.header .dropdown-item:hover,
+.header .dropdown-item:focus,
+.topbar-section,
+.navbar-inverse .navbar-toggler {
+    color: #ffffff !important;
+    border-color: #db2128;
+    background-color: #db2128;
+}
+
+.testimonials blockquote:hover:after {
+    border-top-color: #db2128;
+}
+
+.form-control:focus,
+.absolute-widget {
+    border-color: #db2128;
+}
+
+.button--isi::before {
+    background: #db2128;
+}
+
+.pricing-box-03 .button--isi::before,
+.absolute-widget .button--isi::before {
+    background: #529100;
+}
+
+.contact-details h1,
+.absolute-widget {
+    -webkit-box-shadow: inset 0px 0px 0px 2px #529100;
+    -moz-box-shadow: inset 0px 0px 0px 2px #529100;
+    box-shadow: inset 0px 0px 0px 2px #529100;
+}
+
+.absolute-widget::before {
+    border-right-color: #468500;
+}
