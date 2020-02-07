@@ -908,7 +908,7 @@ div.tab button.active,
     background: -moz-linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.1) 20%);
     background: -webkit-linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.1) 20%);
     background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.1) 20%);
-    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#121212', endColorstr='#12121200', GradientType=1);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#121212', endColorstr='#12121200', GradientType=1);
 }
 
 .entry:hover .magnifier {
@@ -2357,201 +2357,614 @@ ol.workinghours li span,
     pointer-events: none;
 }
 
-.vykort .s1_1 {
+.vykort .s1 {
     font-size: 26.73px;
-    font-family: Charcoal_5y;
+    font-family: Charcoal_g;
     fill: #DB2128;
 }
 
-.vykort .s2_1 {
+.vykort .s2 {
     font-size: 38.95px;
-    font-family: Charcoal_5y;
+    font-family: Charcoal_g;
     fill: #DB2128;
 }
 
-.vykort .s3_1 {
+.vykort .s3 {
     font-size: 21.54px;
-    font-family: Charcoal_5y;
+    font-family: Charcoal_g;
     fill: #DB2128;
 }
 
-.vykort .s4_1 {
-    font-size: 7.64px;
-    font-family: Helvetica-Bold_5m;
-    fill: #231F20;
-}
-
-.vykort .s5_1 {
-    font-size: 6.87px;
-    font-family: Helvetica-Bold_5m;
-    fill: #231F20;
-}
-
-.vykort .s6_1 {
-    font-size: 6.87px;
-    font-family: Helvetica-Oblique_5o;
-    fill: #231F20;
-}
-
-.vykort .s7_1 {
+.vykort .s4 {
     font-size: 12.26px;
-    font-family: Univers-CondensedBold_5q;
+    font-family: Univers-CondensedBold_c;
     fill: #DB2128;
 }
 
-.vykort .s8_1 {
+.vykort .s5 {
     font-size: 12.22px;
-    font-family: Univers-CondensedBold_5q;
+    font-family: Univers-CondensedBold_c;
     fill: #DB2128;
 }
 
-.vykort .s9_1 {
+.vykort .s6 {
     font-size: 24.77px;
-    font-family: Univers-CondensedBold_5q;
+    font-family: Univers-CondensedBold_c;
     fill: #DB2128;
 }
 
-.vykort .s10_1 {
+.vykort .s7 {
     font-size: 9.43px;
-    font-family: HelveticaNeue-BoldCond_5s;
+    font-family: HelveticaNeue-BoldCond_d;
     fill: #231F20;
 }
 
-.vykort .s11_1 {
+.vykort .s8 {
     font-size: 8.40px;
-    font-family: HelveticaNeue-Condensed_5u;
+    font-family: HelveticaNeue-Condensed_e;
     fill: #231F20;
 }
 
-.vykort .s12_1 {
-    font-size: 12.27px;
-    font-family: Univers-CondensedBold_5q;
-    fill: #DB2128;
-}
-
-.vykort .s13_1 {
+.vykort .s9 {
     font-size: 75.67px;
-    font-family: Univers-CondensedBold_5q;
+    font-family: Univers-CondensedBold_c;
     fill: #DB2128;
 }
 
-.vykort .g0_1 {
+.vykort .g0 {
     fill: #FFFFFF;
 }
 
-.vykort .g1_1 {
+.vykort .g1 {
+    fill: none;
+    stroke: #FFFFFF;
+    stroke-width: 0.152;
+    stroke-linecap: butt;
+    stroke-linejoin: miter;
+    stroke-miterlimit: 3;
+}
+
+.vykort .g2 {
     fill: #231F20;
 }
 
-.vykort .g2_1 {
-    fill: none;
-    stroke: #231F20;
-    stroke-width: 0.15277778;
-    stroke-linecap: butt;
-    stroke-linejoin: miter;
-    stroke-miterlimit: 3;
-}
-
-.vykort .g3_1 {
-    fill: none;
-    stroke: #FFFFFF;
-    stroke-width: 0.15277778;
-    stroke-linecap: butt;
-    stroke-linejoin: miter;
-    stroke-miterlimit: 3;
-}
-
-.vykort .g4_1 {
+.vykort .g3 {
     fill: #FFF200;
 }
 
-.vykort .g5_1 {
+.vykort .g4 {
     fill: #EE1D23;
 }
 
-.vykort .g6_1 {
+.vykort .g5 {
     fill: #F166A7;
 }
 
-.vykort .g7_1 {
+.vykort .g6 {
     fill: #00AEEF;
 }
 
-.vykort .g8_1 {
+.vykort .g7 {
     fill: #00A54F;
 }
 
-.vykort .g9_1 {
+.vykort .g8 {
     fill: #81CA9C;
 }
 
-.vykort .g10_1 {
+.vykort .g9 {
     fill: none;
     stroke: #FFFFFF;
-    stroke-width: 0.9578785;
+    stroke-width: 0.957;
     stroke-linecap: butt;
     stroke-linejoin: miter;
 }
 
-.vykort .g11_1 {
+.vykort .ga {
     fill: none;
     stroke: #000000;
-    stroke-width: 0.19157569;
+    stroke-width: 0.191;
     stroke-linecap: butt;
     stroke-linejoin: miter;
 }
 
-.vykort .g12_1 {
+.vykort .gb {
     fill: none;
     stroke: #231F20;
-    stroke-width: 0.76630276;
+    stroke-width: 0.766;
     stroke-linecap: butt;
     stroke-linejoin: miter;
     stroke-miterlimit: 4;
 }
 
-.vykort .g13_1 {
+.vykort .gc {
     fill: none;
     stroke: #FFFFFF;
-    stroke-width: 1.915757;
+    stroke-width: 1.915;
     stroke-linecap: butt;
     stroke-linejoin: miter;
 }
 
-.vykort .g14_1 {
+.vykort .gd {
     fill: none;
     stroke: #000000;
-    stroke-width: 0.38315138;
+    stroke-width: 0.383;
     stroke-linecap: butt;
     stroke-linejoin: miter;
 }
 
-@font-face {
-    font-family: Charcoal_5y;
-    src: url("fonts/Charcoal_5y.woff") format("woff");
+.vykort .ge {
+    fill: #DFEAEF;
+}
+
+.vykort .gf {
+    fill: #CEDCDF;
+}
+
+.vykort .gg {
+    fill: #F4B499;
+}
+
+.vykort .gh {
+    fill: #24252A;
+}
+
+.vykort .gi {
+    fill: #DB9C8F;
+}
+
+.vykort .gj {
+    fill: #0A4C55;
+}
+
+.vykort .gk {
+    fill: #F5D0CE;
+}
+
+.vykort .gl {
+    fill: #684432;
+}
+
+.vykort .gm {
+    fill: #C4876D;
+}
+
+.vykort .gn {
+    fill: #AC7B63;
+}
+
+.vykort .go {
+    fill: #885B43;
+}
+
+.vykort .gp {
+    fill: #EEBD9D;
+}
+
+.vykort .gq {
+    fill: #008473;
+}
+
+.vykort .gr {
+    fill: #466266;
+}
+
+.vykort .gs {
+    fill: #009783;
+}
+
+.vykort .gt {
+    fill: #89998C;
+}
+
+.vykort .gu {
+    fill: #F8E192;
+}
+
+.vykort .gv {
+    fill: #D2CFD2;
+}
+
+.vykort .gw {
+    fill: #F1908C;
+}
+
+.vykort .gx {
+    fill: #573F3E;
+}
+
+.vykort .gy {
+    fill: #96877A;
+}
+
+.vykort .gz {
+    fill: #2D7561;
+}
+
+.vykort .g10 {
+    fill: #F9E5A1;
+}
+
+.vykort .g11 {
+    fill: #E0A38F;
+}
+
+.vykort .g12 {
+    fill: #E3DBD1;
+}
+
+.vykort .g13 {
+    fill: #F2BBA8;
+}
+
+.vykort .g14 {
+    fill: #F1EEE6;
+}
+
+.vykort .g15 {
+    fill: #9DB09D;
+}
+
+.vykort .g16 {
+    fill: #F2B4B1;
+}
+
+.vykort .g17 {
+    fill: #F7F1E2;
+}
+
+.vykort .g18 {
+    fill: #F5CCBE;
+}
+
+.vykort .g19 {
+    fill: #F3F3ED;
+}
+
+.vykort .g1a {
+    fill: #E6A076;
+}
+
+.vykort .g1b {
+    fill: #444B4D;
+}
+
+.vykort .g1c {
+    fill: #F6BD87;
+}
+
+.vykort .g1d {
+    fill: #F7CC9F;
+}
+
+.vykort .g1e {
+    fill: #F5B08A;
+}
+
+.vykort .g1f {
+    fill: #936251;
+}
+
+.vykort .g1g {
+    fill: #AB715B;
+}
+
+.vykort .g1h {
+    fill: #EECD1E;
+}
+
+.vykort .g1i {
+    fill: #F7DD25;
+}
+
+.vykort .g1j {
+    fill: #F7E358;
+}
+
+.vykort .g1k {
+    fill: #E76949;
+}
+
+.vykort .g1l {
+    fill: #D5432F;
+}
+
+.vykort .g1m {
+    fill: #5E9141;
+}
+
+.vykort .g1n {
+    fill: #A0705A;
+}
+
+.vykort .g1o {
+    fill: #94A540;
+}
+
+.vykort .g1p {
+    fill: #D68F45;
+}
+
+.vykort .g1q {
+    fill: #E89D4F;
+}
+
+.vykort .g1r {
+    fill: #F5AB5A;
+}
+
+.vykort .g1s {
+    fill: #FBB877;
+}
+
+.vykort .g1t {
+    fill: #D79989;
+}
+
+.vykort .g1u {
+    fill: #A2BB40;
+}
+
+.vykort .g1v {
+    fill: #975DA2;
+}
+
+.vykort .g1w {
+    fill: #9D6AA7;
+}
+
+.vykort .g1x {
+    fill: #A369A9;
+}
+
+.vykort .g1y {
+    fill: #AB76AE;
+}
+
+.vykort .g1z {
+    fill: #64916E;
+}
+
+.vykort .g20 {
+    fill: #955DA0;
+}
+
+.vykort .g21 {
+    fill: #9D6DA7;
+}
+
+.vykort .g22 {
+    fill: #AE78B0;
+}
+
+.vykort .g23 {
+    fill: #B585B7;
+}
+
+.vykort .g24 {
+    fill: #D67E2D;
+}
+
+.vykort .g25 {
+    fill: #E69039;
+}
+
+.vykort .g26 {
+    fill: #A8AEB5;
+}
+
+.vykort .g27 {
+    fill: #91999F;
+}
+
+.vykort .g28 {
+    fill: #644A46;
+}
+
+.vykort .g29 {
+    fill: #F7DD6D;
+}
+
+.vykort .g2a {
+    fill: #F8E99B;
+}
+
+.vykort .g2b {
+    fill: #69A062;
+}
+
+.vykort .g2c {
+    fill: #2D8A60;
+}
+
+.vykort .g2d {
+    fill: #7B7582;
+}
+
+.vykort .g2e {
+    fill: #7F8B91;
+}
+
+.vykort .g2f {
+    fill: #C2B8BB;
+}
+
+.vykort .g2g {
+    fill: #B7ADAB;
+}
+
+.vykort .g2h {
+    fill: #99999D;
+}
+
+.vykort .g2i {
+    fill: #A9A1A2;
+}
+
+.vykort .g2j {
+    fill: #A19AC7;
+}
+
+.vykort .g2k {
+    fill: #A8A9D1;
+}
+
+.vykort .g2l {
+    fill: #77B2AF;
+}
+
+.vykort .g2m {
+    fill: #9794C2;
+}
+
+.vykort .g2n {
+    fill: #9D9DC8;
+}
+
+.vykort .g2o {
+    fill: #A6A4CE;
+}
+
+.vykort .g2p {
+    fill: #87A3B9;
+}
+
+.vykort .g2q {
+    fill: #DAC3A0;
+}
+
+.vykort .g2r {
+    fill: #9FCB96;
+}
+
+.vykort .g2s {
+    fill: #F6C1A9;
+}
+
+.vykort .g2t {
+    fill: #715B67;
+}
+
+.vykort .g2u {
+    fill: #B0C462;
+}
+
+.vykort .g2v {
+    fill: #A5B15E;
+}
+
+.vykort .g2w {
+    fill: #153F64;
+}
+
+.vykort .g2x {
+    fill: #C36755;
+}
+
+.vykort .g2y {
+    fill: #E19C76;
+}
+
+.vykort .g2z {
+    fill: #4F5759;
+}
+
+.vykort .g30 {
+    fill: #FDCE54;
+}
+
+.vykort .g31 {
+    fill: #0F6793;
+}
+
+.vykort .g32 {
+    fill: #DB7A64;
+}
+
+.vykort .g33 {
+    fill: #F4AC8A;
+}
+
+.vykort .g34 {
+    fill: #086D8C;
+}
+
+.vykort .g35 {
+    fill: #888F96;
+}
+
+.vykort .g36 {
+    fill: #F2E0A6;
+}
+
+.vykort .g37 {
+    fill: #50709A;
+}
+
+.vykort .g38 {
+    fill: #00A4CF;
+}
+
+.vykort .g39 {
+    fill: #E9B8BF;
+}
+
+.vykort .g3a {
+    fill: #868D93;
+}
+
+.vykort .g3b {
+    fill: #28A4AC;
+}
+
+.vykort .g3c {
+    fill: #1D8A92;
+}
+
+.vykort .g3d {
+    fill: #5E6568;
+}
+
+.vykort .g3e {
+    fill: #9CDBF6;
+}
+
+.vykort .g3f {
+    fill: #F5D8DD;
+}
+
+.vykort .g3g {
+    fill: #B7BDC4;
+}
+
+.vykort .g3h {
+    fill: #A9AFB6;
+}
+
+.vykort .g3i {
+    fill: #59B5C3;
+}
+
+.vykort .g3j {
+    fill: #F8E8BB;
 }
 
 @font-face {
-    font-family: Helvetica-Bold_5m;
-    src: url("fonts/Helvetica-Bold_5m.woff") format("woff");
+    font-family: Charcoal_g;
+    src: url("fonts/Charcoal_g.woff") format("woff");
 }
 
 @font-face {
-    font-family: Helvetica-Oblique_5o;
-    src: url("fonts/Helvetica-Oblique_5o.woff") format("woff");
+    font-family: HelveticaNeue-BoldCond_d;
+    src: url("fonts/HelveticaNeue-BoldCond_d.woff") format("woff");
 }
 
 @font-face {
-    font-family: HelveticaNeue-BoldCond_5s;
-    src: url("fonts/HelveticaNeue-BoldCond_5s.woff") format("woff");
+    font-family: HelveticaNeue-Condensed_e;
+    src: url("fonts/HelveticaNeue-Condensed_e.woff") format("woff");
 }
 
 @font-face {
-    font-family: HelveticaNeue-Condensed_5u;
-    src: url("fonts/HelveticaNeue-Condensed_5u.woff") format("woff");
-}
-
-@font-face {
-    font-family: Univers-CondensedBold_5q;
-    src: url("fonts/Univers-CondensedBold_5q.woff") format("woff");
+    font-family: Univers-CondensedBold_c;
+    src: url("fonts/Univers-CondensedBold_c.woff") format("woff");
 }
