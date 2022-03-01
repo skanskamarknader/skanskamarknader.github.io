@@ -2379,6 +2379,7 @@ ol.workinghours li span,
     font-size: 12.26px;
     font-family: Univers-CondensedBold_c;
     fill: #DB2128;
+    cursor: pointer;
 }
 
 .vykort .s5 {
