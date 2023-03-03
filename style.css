@@ -2377,20 +2377,23 @@ ol.workinghours li span,
 
 .vykort .s4 {
     font-size: 12.26px;
-    font-family: Univers-CondensedBold_c;
+    font-family: 'Roboto Condensed';
+    font-weight: 700;
     fill: #DB2128;
     cursor: pointer;
 }
 
 .vykort .s5 {
     font-size: 12.22px;
-    font-family: Univers-CondensedBold_c;
+    font-family: 'Roboto Condensed';
+    font-weight: 700;
     fill: #DB2128;
 }
 
 .vykort .s6 {
     font-size: 24.77px;
-    font-family: Univers-CondensedBold_c;
+    font-family: 'Roboto Condensed';
+    font-weight: 700;
     fill: #DB2128;
 }
 
@@ -2408,7 +2411,8 @@ ol.workinghours li span,
 
 .vykort .s9 {
     font-size: 75.67px;
-    font-family: Univers-CondensedBold_c;
+    font-family: 'Roboto Condensed';
+    font-weight: 700;
     fill: #DB2128;
 }
 
@@ -2963,9 +2967,4 @@ ol.workinghours li span,
 @font-face {
     font-family: HelveticaNeue-Condensed_e;
     src: url("fonts/HelveticaNeue-Condensed_e.woff") format("woff");
-}
-
-@font-face {
-    font-family: Univers-CondensedBold_c;
-    src: url("fonts/Univers-CondensedBold_c.woff") format("woff");
 }
