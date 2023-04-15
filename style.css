@@ -2383,6 +2383,10 @@ ol.workinghours li span,
     cursor: pointer;
 }
 
+.vykort .cancelled{
+    text-decoration: line-through;
+}
+
 .vykort .s5 {
     font-size: 12.22px;
     font-family: 'Roboto Condensed';
